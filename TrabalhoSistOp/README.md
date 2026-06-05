@@ -3,7 +3,7 @@
 **Disciplina:** Sistemas Operacionais  
 **Trabalho:** Simulador de Sistema de Arquivos com Journaling  
 **Linguagem:** Java  
-**Repositório GitHub:** https://github.com/SEU_USUARIO/TrabalhoSistOp
+**Repositório GitHub:** https://github.com/GabrielTrajano078/Simulador-de-Sistema-de-Arquivos
 
 ---
 
@@ -270,8 +270,7 @@ Espera-se que o simulador forneça insights sobre o funcionamento de um sistema 
 
 ## Autores
 
-- Nome do Integrante 1
-- Nome do Integrante 2
+- Gabriel Trajano Sales Cajado
+- Davi Lira Cysne
 
-> **Link do GitHub:** https://github.com/SEU_USUARIO/TrabalhoSistOp  
-> *(Substitua pelo link real do repositório antes de gerar o PDF para entrega no AVA)*
+> **Link do GitHub:** https://github.com/GabrielTrajano078/Simulador-de-Sistema-de-Arquivos
